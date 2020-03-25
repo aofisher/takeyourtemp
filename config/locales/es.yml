@@ -1,43 +1,43 @@
 es:
   # Home page
-  pledge_to: "tu promesa"
-  every_day: "cada día"
-  stop_the_spread_cta: <strong>Ayúdanos a parar el COVID-19</strong><br>Sabiendo quien tiene fiebre o síntomas juntos<br> podemos proveer valiosa información a los sistemas de salud
+  pledge_to: "Comprométase diariamente con"
+  every_day: 
+  stop_the_spread_cta: <strong>Ayude a detener el COVID-19</strong><br>ingresando datos sobre su temperatura y síntomas.
   how: ¿Cómo?
-  why: ¿Porqué?
-  how_answer: Entra tu temperatura y tus síntomas a esta página todos los días. Esta información va a estar disponible para hospitales y centros de atención médica.
-  why_answer: Esta información ayuda a las organizaciones a planear la distribución de recursos y proveer apoyo donde es inmediatamente necesario. Tomandote la temperatura todos los dia nos ayudas a obtener valiosa información que en tiempo real que puede salvar vidas.
+  why: ¿Por qué?
+  how_answer: Ingrese su temperatura y síntomas diariamente. Estos datos se harán disponible a las autoridades de la salud.
+  why_answer: Al tomar y proveer su temperatura diariamente usted proporcionará datos procesables en tiempo real. Estos datos ayudarán a determinar en dónde se está propagando el COVID-19. De esta manera las autoridades de la salud podrán adjudicar los recursos de una manera eficiente.
   begin_data_entry: Comenzar
   temperature: temperatura
   zip_code: código postal
   postal_code_clarify: ZIP code
-  age: años
+  age: edad
   sex: sexo
   optional: opcional
-  experiencing_any_symptoms: ¿Experimenta alguno de los siguientes síntomas?
-  choose_all_that_apply: elige todo lo que corresponda
-  degrees_f: grados Fahrenheit
+  experiencing_any_symptoms: ¿Está sintiendo alguno de estos síntomas?
+  choose_all_that_apply: escoja los que sean aplicables
+  degrees_f: en grados Fahrenheit
   degrees_f_short: (° Fahrenheit)
-  household_members: Household members
-  male: masculino
-  female: feminino
+  household_members: Número de Miembros de Familia
+  male: hombre
+  female: mujer
   other: otro
-  submit_temperature: enviar temperatura
-  sumbit_temperature_for_person: enviar temperatura para no. 
+  submit_temperature: ingrese su temperatura
+  sumbit_temperature_for_person: ingrese su temperatura para no. 
   household_members: Miembros de familia
   add: añadir
   open_access_is_provided: "Nota: proveemos acceso directo a la informacion solo a entidades medicas y de salud gubernamental."
 
   # Symptoms
   cough: tos
-  shortness_of_breath: falta de aliento
+  shortness_of_breath: sensación de falta de aire
   fatigue: fatiga
   sore_throat: dolor de garganta
-  runny_nose: nariz que moquea
-  aches: dolores en el cuerpo
-  vomiting: vómitos
+  runny_nose: secreción nasal
+  aches: dolores
+  vomiting: vómito
   diarrhea: diarrea
-  none_of_these: ningun síntoma
+  none_of_these: ninguno de estos
 
   # Success page
   thank_you_for_adding_to_the_dataset: Gracias por su información.
@@ -46,8 +46,8 @@ es:
   privacy_note: <b>Nota:</b> Su contacto no está de ninguna manera asociado a su información médica.
   email_placeholder: email@ejemplo.com
   email: Email
-  phone:  Teléfono
+  phone:  Numero de Teléfono
   for_the_latest_info: Para obtener la información más reciente sobre COVID-19, visite...
   cdc_long: Centros para el Control y la Prevención de Enfermedades
   who_long: Organización Mundial de la Salud
-  yes_send_me_reminders: Sí, envíame recordatorios
+  yes_send_me_reminders: Sí, por favor envíame recordatorios
